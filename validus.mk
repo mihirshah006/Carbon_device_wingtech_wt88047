@@ -34,3 +34,6 @@ PRODUCT_MANUFACTURER := Wingtech
 PRODUCT_MODEL := Redmi 2
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+        DEVICE_MAINTAINERS="Prema Chand Alugu(premaca)"
