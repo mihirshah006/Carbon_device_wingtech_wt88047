@@ -111,3 +111,11 @@ persist.radio.VT_USE_MDM_TIME=0
 
 # Google assistant
 ro.opa.eligible_device=true
+
+# Hardware Info
+ro.device.chipset=Qualcomm Snapdragon 410
+ro.device.cpu=Quad-core 1.2 GHz Cortex-A53
+ro.device.gpu=Adreno 306
+ro.device.rear_cam=8MP
+ro.device.front_cam=2MP
+ro.device.screen_res=720 x 1280
