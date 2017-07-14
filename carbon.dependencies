@@ -1,11 +1,11 @@
 [
   {
-    "repository": "premaca/proprietary_vendor_wingtech",
+    "repository": "TheMuppets/proprietary_vendor_wingtech",
     "target_path": "vendor/wingtech",
-    "branch": "n7.0-caf"
+    "branch": "cm-14.1"
   },
   {
-    "repository": "premaca/Xiaomi_Kernel_OpenSource",
+    "repository": "mihirshah006/Xiaomi_Kernel_OpenSource",
     "target_path": "kernel/wingtech/msm8916",
     "branch": "n7.1"
   },
